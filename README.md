@@ -2,10 +2,10 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- hi
-- cd ..
-- 
+- 📫 How to reach me ..
+- m
+-make prefix=/usr all doc info ;# as yourself
+
 
 <!---
 Uwow7/Uwow7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
